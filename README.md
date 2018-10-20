@@ -2,7 +2,7 @@
 
 
 Main service is https://github.com/rkritchat/library-system (library-system)
-this api has Spring JPA and Spring Security(JWT token)
+and this service contain Spring JPA and Spring Security(base on JWT token)
 
 Spring-RestTemplate-with-JWT is third party api, it will communicate with UI and library-system
 
